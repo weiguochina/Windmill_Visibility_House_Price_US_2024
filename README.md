@@ -64,6 +64,11 @@ We provide the replication codes .\program\3_1-turbine_data_summ.R, .\program\3_
 
 Note that to compile the file, the user will need to acquire a token from the census website and add it to the program.
 
+## Contact
+
+Please contact Wei Guo (wei.guo@cmcc.it) for any questions regarding the code or data files.
+
+Please see the paper for more information on the codes and data. If you use these codes files or data, please **CITE** this paper as the source
 
 ## Reference
 
