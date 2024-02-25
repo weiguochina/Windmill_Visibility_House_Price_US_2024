@@ -1,0 +1,3 @@
+Data on the average building height are obtained from the U.S. national categorical mapping of building heights from Shuttle Radar Topography Mission (https://www.sciencebase.gov/catalog/item/5775469ce4b07dd077c7088a). The data are a categorical mapping of estimated mean building heights, by census block group, for the conterminous United States. 
+
+To proceed, the user will need to download and extract the file "srtm_bg_building_heights.gdb" to the current directory. 
