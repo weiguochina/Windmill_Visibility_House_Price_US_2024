@@ -1,6 +1,6 @@
 # Supporting Documents for "The visual effect of wind turbines on property values is small and diminishing in space and time"
 
-This package provides the replication code for the main results in **Reference here**. The paper is available at **Link here**.
+This package provides the replication code for the main results in Guo, W., Wenz, L., & Auffhammer, M. (2024). The visual effect of wind turbines on property values is small and diminishing in space and time. Proceedings of the National Academy of Sciences, 121(13), e2309372121. The paper is available at [here](https://www.pnas.org/doi/10.1073/pnas.2309372121).
 
 The folder ./program contains all programs, while the folder ./data includes all needed input data files.
 
